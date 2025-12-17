@@ -1,4 +1,4 @@
-package com.okebab.okebabbackend.order;
+package com.okebab.okebabbackend.order.model;
 
 public enum ProductType {
     TACOS,

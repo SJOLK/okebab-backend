@@ -1,5 +1,6 @@
-package com.okebab.okebabbackend.order;
+package com.okebab.okebabbackend.order.dto.response;
 
+import com.okebab.okebabbackend.order.model.OrderStatus;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
